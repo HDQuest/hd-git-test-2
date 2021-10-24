@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Salam dari Binjai!</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eius rem explicabo repudiandae maiores a facilis, et velit veritatis, dolorem, nulla vitae itaque? Veniam perspiciatis eveniet maxime nobis fuga! Explicabo!</p>
 </body>
 </html>
